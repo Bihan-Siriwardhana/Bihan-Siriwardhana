@@ -17,6 +17,10 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nextjs,html,css,tailwind,nodejs,express,spring,mongodb,mysql,aws,git,postman,figma,bootstrap,arduino,linux,photoshop" />
+</div>
+
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -92,7 +96,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bihan-siriwardhana&theme=tokyo-night" />
 </div>
 
+---
 
+<div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
 
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/bihan-siriwardhana">Bihan Siriwardhana</a></h3>
