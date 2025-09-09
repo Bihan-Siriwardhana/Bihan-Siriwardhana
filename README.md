@@ -17,8 +17,34 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nextjs,html,css,tailwind,nodejs,express,spring,mongodb,mysql,aws,git,postman,figma,bootstrap,arduino,linux,photoshop" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c" />
+</div>
+
+### 🎨 Frontend Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</div>
+
+### ⚙️ Backend Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</div>
+
+### 🗄️ Database
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</div>
+
+### ☁️ Cloud & Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,postman,figma" />
+</div>
+
+### 📱 Mobile Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react" />
 </div>
 
 ---
@@ -50,11 +76,15 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bihan-siriwardhana)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bihankithmina@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bihan-siriwardhana)
-
+<a href="https://linkedin.com/in/bihan-siriwardhana">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:bihankithmina@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/bihan-siriwardhana">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </div>
 
 ---
@@ -62,19 +92,13 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bihan-siriwardhana&theme=tokyo-night" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bihan-siriwardhana&custom_title=Bihan's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true&theme=tokyo-night" />
 </div>
-
----
-
 <div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bihan-siriwardhana&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&sideNums=70a5fd&currStreakLabel=70a5fd&sideLabels=ffffff&dates=70a5fd" alt="GitHub Streak" />
 </div>
 
----
+
 
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/bihan-siriwardhana">Bihan Siriwardhana</a></h3>
