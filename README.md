@@ -92,16 +92,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bihan-siriwardhana&theme=tokyo-night" />
 </div>
 
----
 
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/bihan-siriwardhana">Bihan Siriwardhana</a></h3>
