@@ -95,10 +95,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bihan-siriwardhana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
   
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
